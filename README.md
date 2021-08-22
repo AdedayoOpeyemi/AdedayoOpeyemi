@@ -27,15 +27,12 @@
 
 > *My "Most Used Languages" does not indicate my skill level, it's just a GitHub metric of which languages have the most code on my GitHub repositories.*
 <br>
-<hr>
 
-
+<details>
 <br>
-    
-## Some of my project
+    <summary><strong>Some of my Projects</strong></summary>
 
 These are some of my favorite projects, please take a look at them:
-<hr>
 
 <p align="center">
     <a href="https://github.com/AdedayoOpeyemi/todo-list">
@@ -55,6 +52,7 @@ These are some of my favorite projects, please take a look at them:
     </a>
 </p>
 
+</details>
 
 <hr>
 
