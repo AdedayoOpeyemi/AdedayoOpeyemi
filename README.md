@@ -12,7 +12,7 @@
     - [x] SQL and Database;
     - [x] Ruby on Rails;
     - [x] JavaScript;
-    - [ ] React & Redux;
+    - [x] React & Redux;
         
 <br>
 
